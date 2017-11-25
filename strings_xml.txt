@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">CourtCounter</string>
+    <string name="countdown_Start_btn">Start\ntime</string>
+    <string name="countdown_Stop_btn">Stop\ntime</string>
+    <string name="countdown_Pause_btn">Pause\n </string>
+    <string name="reset_btn">Reset\nscores</string>
+    <string name="A3_btn">+3 Points</string>
+    <string name="A2_btn">+2 Points</string>
+    <string name="A1_btn">Free throw</string>
+    <string name="B3_btn">+3 Points</string>
+    <string name="B2_btn">+2 Points</string>
+    <string name="B1_btn">Free throw</string>
+
+    <string name="time_txt">10:00</string>
+    <string name="TeamA_txt">Team A</string>
+    <string name="TeamB_txt">Team B</string>
+    <string name="scoreA_txt">0</string>
+    <string name="scoreB_txt">0</string>
+    <string name="Stat_txt">Statistics</string>
+    <string name="Stat_B3_txt">0</string>
+    <string name="Stat_B2_txt">0</string>
+    <string name="Stat_B1_txt">0</string>
+    <string name="Stat_A3_txt">0</string>
+    <string name="Stat_A2_txt">0</string>
+    <string name="Stat_A1_txt">0</string>
+    <string name="Three_Throw_txt">Three Throw</string>
+    <string name="Two_Throw_txt">Two Throw</string>
+    <string name="Free_Throw_txt">Free Throw</string>
+
+
+
+</resources>
